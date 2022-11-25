@@ -30,7 +30,7 @@ Option 2. call fa.folder_select(psych_folder, force_folder) <--run analysis on a
 
 In this process, there might be some warning message. Please ignore it 
 
-# Manipulation for Generalization
+# To run analysis on selected files
 
 Import processor.py & force_analyzer.py (as fa)
 
