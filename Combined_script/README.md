@@ -8,6 +8,8 @@
 
 **Objectives**: To convert the force data and create the force curves based on the onsets of prime and probe
 
+https://www.coursera.org/specializations/python?#courses
+
 **Contents**: Necessary: processor.py & force_analyzer.py. 
 
 Analysis example: analysis_driver.ipynb
