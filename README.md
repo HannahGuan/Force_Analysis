@@ -1,0 +1,1 @@
+The files in this repository is used for analyzing the finger force data in distractor-interference tasks in U-M *Attention and Cognitive Control Laboratory* https://sites.lsa.umich.edu/daniel-weissman/projects/
